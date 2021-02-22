@@ -5,11 +5,14 @@ temperatures based on a set of input features, which can include the previous va
 relative humidity, solar radiation, rain and wind speed measurements, among others.
 
 Currently applying two popular Techniques:
+
 #Long Short-Term Memory (LSTM) recurrent neural networks:
 LSTM with 50 neurons in the first hidden layer and 1 neuron in the output.
  Mean Absolute Error (MAE) loss function and the efficient Adam version of stochastic gradient descent.
 The model will be fit for 50 training epochs with a batch size of 72.
 
+#ANN
+For ANN with Rectified Linear Unit(Relu) we used 9 neurons in the input layer and 2 hidden layer with 9 neurons. With adam optimizer.
 
 #Support Vector Machine(SVM) 
 
