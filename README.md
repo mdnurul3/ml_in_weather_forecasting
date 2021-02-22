@@ -1,5 +1,6 @@
 # ml_in_weather_forecasting
-This forlder contains code Machine Learning techniques can help to accurately predict
+This forlder contains code:
+Machine Learning techniques can help to accurately predict
 temperatures based on a set of input features, which can include the previous values of temperature,
 relative humidity, solar radiation, rain and wind speed measurements, among others.
 
